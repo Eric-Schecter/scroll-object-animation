@@ -9,7 +9,7 @@ Scroll Object Animation based on Threejs.
 [https://scroll-object-animation.netlify.app](https://scroll-object-animation.netlify.app) 
 
 ## Reference
-Tutorial https://tympanus.net/codrops/2020/03/17/create-a-wave-motion-effect-on-an-image-with-three-js/
+Tutorial https://tympanus.net/codrops/2021/07/13/rock-the-stage-with-a-smooth-webgl-shader-transformation-on-scroll/
 
 ## License
 This project is licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
